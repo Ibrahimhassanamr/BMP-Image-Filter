@@ -1,0 +1,1 @@
+those file are used to read the bmp image into array
